@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Selecta';
+    src: url('Selecta-Light.woff2') format('woff2'),
+        url('Selecta-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Selecta';
+    src: url('Selecta-Medium.woff2') format('woff2'),
+        url('Selecta-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Selecta';
+    src: url('Selecta-Regular.woff2') format('woff2'),
+        url('Selecta-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Selecta';
+    src: url('Selecta-Regular.woff2') format('woff2'),
+        url('Selecta-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

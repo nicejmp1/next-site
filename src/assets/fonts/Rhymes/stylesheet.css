@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Ryhmes Display';
+    src: url('RyhmesDisplay-Thin.woff2') format('woff2'),
+        url('RyhmesDisplay-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ryhmes Display';
+    src: url('RyhmesDisplay-UltraLight.woff2') format('woff2'),
+        url('RyhmesDisplay-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ryhmes Display';
+    src: url('RyhmesDisplay-UltraLight.woff2') format('woff2'),
+        url('RyhmesDisplay-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ryhmes Display';
+    src: url('RyhmesDisplay-Thin.woff2') format('woff2'),
+        url('RyhmesDisplay-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
